@@ -1,0 +1,16 @@
+[
+    {
+      "name": "Project 1 - Nom Nom Nom",
+      "live": "https://app.herokuapp.com/whatever",
+      "git": "http://www.github.com/username/reponame",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    },
+    {
+      "name": "Project 2 - Gain Flex",
+      "live": "https://app.netlify.app/whatever",
+      "git": "http://www.github.com/username/reponame",
+      "image": "http://www.imgur.com/pictureofproject.png"
+    }
+  ]
+
+
