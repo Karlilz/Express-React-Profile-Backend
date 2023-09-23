@@ -1,6 +1,12 @@
 {
-    "name": "Karla Lazarte",
-    "email": "Bob@BobSmith.dev",
-    "headshot": "http://www.imgur.com/pictureofproject.png",
-    "bio": "Bob Smith graduated from General Assembly in 2017. Afterwords, he went to work for XYZ Technologies where he maintained a full stack application using Meteor and Ember. He also recently started started learning Prolog, cause why not waste time."
+  "name": "Karla Lazarte",
+  "email": "klazarte2000@gmail.com",
+  "headshot": "http://www.imgur.com/pictureofproject.png",
+  "bio": "I am a passionate and solution-driven Software Engineer who enjoys working with team members of all backgrounds and skill sets. I am interested in creative projects that provide intuitive and user-friendly solutions and aim to make a positive impact on the digital world. Based on my prior experience as a Wellness Program Manager, I understand the importance of clear and straightforward communication. I seamlessly bring this skill into the field of software engineering, recognizing how crucial it is to collaborate effectively with teammates, stakeholders, and end-users.",
+  "skills": {
+    "Languages": ["JavaScript", "HTML", "CSS", "Mongo", "JSON", "EJS"],
+    "Libraries and Frameworks": ["React", "Express.js", "jQuery"],
+    "Databases": ["MongoDB", "RESTful Routing", "JSON API"],
+    "Other": ["Communication", "Scheduling", "Problem Solving", "Management"]
   }
+}
