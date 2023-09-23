@@ -1,14 +1,14 @@
 [
     {
-      "name": "Project 1 - Nom Nom Nom",
+      "name": "Nom Nom Nom",
       "live": "https://app.herokuapp.com/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "git": "https://github.com/Karlilz/Nom-Nom-Nom.git",
       "image": "http://www.imgur.com/pictureofproject.png"
     },
     {
-      "name": "Project 2 - Gain Flex",
-      "live": "https://app.netlify.app/whatever",
-      "git": "http://www.github.com/username/reponame",
+      "name": "Gain Flex",
+      "live": "https://gainflex-tracker-app.onrender.com",
+      "git": "https://github.com/Karlilz/Gains-Flex-App.git",
       "image": "http://www.imgur.com/pictureofproject.png"
     }
   ]
